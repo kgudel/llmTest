@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDvm61pIbDxNanP0ceoEO9FE-5Z2UF90m0")
+genai.configure(api_key="API_KEY")
 
 question = "What is a horse"
 
